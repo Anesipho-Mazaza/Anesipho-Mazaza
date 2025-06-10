@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazaza Anesipho</h1>
-<h3 align="center">Full-Stack Developer | DevOps Enthusiast | Business Analytics Graduate</h3>
+<h3 align="center"> DevOps Enthusiast </h3>
 
 <p align="center">
   💻 Skilled in scalable web & mobile development using Flutter, React, and Firebase<br>
