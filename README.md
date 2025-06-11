@@ -20,7 +20,6 @@
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 
 **Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
