@@ -9,13 +9,6 @@
 
 ---
 
-### 🎓 Education
-
-- 🎓 **National Diploma in Information Technology**
-- 📈 Specialization: **Business Analytics**
-
----
-
 ### 🧰 Tech Stack
 
 **Frontend**  
@@ -32,12 +25,6 @@
 ![Firestore](https://img.shields.io/badge/-Firestore-orange?style=flat&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Firebase Auth](https://img.shields.io/badge/-Firebase_Auth-FFCA28?style=flat&logo=firebase)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ---
 
