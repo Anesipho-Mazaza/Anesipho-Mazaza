@@ -1,79 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mazaza Anesipho</h1>
-<h3 align="center">DevOps Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Anesipho Mazaza</h1>
+<h3 align="center">DevOps Engineer | Full-Stack Developer | Data Enthusiast</h3>
 
 <p align="center">
-  📊 Business Analytics graduate passionate about data-driven solutions<br>
-  🌍 South Africa-based | Lifelong learner & open-source collaborator
+  <a href="https://www.linkedin.com/in/anesipho-mazaza-19a020265/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:aneshmazaza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & APIs**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-**Database & Auth**  
-![Firestore](https://img.shields.io/badge/-Firestore-orange?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Firebase Auth](https://img.shields.io/badge/-Firebase_Auth-FFCA28?style=flat&logo=firebase)
-
-**Tools & DevOps**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions)
-![CI/CD](https://img.shields.io/badge/-CI/CD-blue?style=flat)
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- 🔐 [**SA ID Validation (Java)**](https://github.com/Anesipho-Mazaza/sa-id-validation)  
-  Validate South African ID numbers for form verification & identity checks.
+### **ZaziApply (Private)**
+📌 Digital platform for South African learners to apply to tertiary institutions  
+🔧 Tech: JavaScript, React, Node.js  
+> Currently in development - simplifying the application process with guided support
 
-- 💻 [**S.A. ID Validation (Shell)**](https://github.com/Anesipho-Mazaza/S.A.ID-Validation)  
-  Lightweight terminal ID validator built entirely with Bash.
+### **R2-D2 Morse Code Translator**
+🔤 Interactive Morse code translator with audio beeps  
+🔧 Tech: JavaScript, HTML5, CSS3  
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anesipho-Mazaza/R2-D2-Morse-Code-Translator)
 
-- ✅ [**To-Do List App**](https://github.com/Anesipho-Mazaza/Mazaza-Anesipho-To-Do-List)  
-  Task manager built with JavaScript — add, edit, complete, and delete tasks.
+### **South African ID Validator**
+🆔 Two implementations for validating SA ID numbers  
+🔧 Tech: Java | Bash  
+[![Java Version](https://img.shields.io/badge/Java_Version-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anesipho-Mazaza/sa-id-validation)
+[![Bash Version](https://img.shields.io/badge/Bash_Version-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anesipho-Mazaza/S.A.ID-Validation)
 
-- 🌐 [**Personal Portfolio**](https://github.com/Anesipho-Mazaza/Anesipho-portfolio)  
-  My first personal website built using HTML and CSS.
-
-- 🧪 [**Git & GitHub (IBM Course)**](https://github.com/Anesipho-Mazaza/jbbmo-Introduction-to-Git-and-GitHub)  
-  Hands-on Git basics from IBM’s Introduction to Git and GitHub course.
+### **CI/CD Pipeline with Jenkins**
+⚙️ Automated build and deployment pipeline  
+🔧 Tech: Jenkins, Express.js, GitHub  
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anesipho-Mazaza/express-jenkins-pipeline-)
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anesipho-Mazaza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anesipho-Mazaza&layout=compact&langs_count=10&theme=github_dark"/>
+</div>
+
+---
+
+## 🌱 Currently Learning
+- Kubernetes orchestration
+- AWS cloud services
+- Advanced CI/CD pipelines
+- TypeScript
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: [Anesipho Mazaza](https://www.linkedin.com/in/anesipho-mazaza-19a020265/)
+- Email: [aneshmazaza@gmail.com](mailto:aneshmazaza@gmail.com)
+- Portfolio: [Coming Soon](#)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anesipho-Mazaza&show_icons=true&theme=default&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anesipho-Mazaza&layout=compact&langs_count=10" height="180"/>
+  <img src="https://komarev.com/ghpvc/?username=Anesipho-Mazaza&label=Profile%20views&color=0e75b6&style=flat" alt="Anesipho-Mazaza" /> 
 </p>
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anesipho-mazaza-19a020265/)  
-📧 **Email:** aneshmazaza@gmail.com
-
----
-
-<!--
-🌱 Currently learning: TypeScript, Docker, Jenkins CI/CD  
-⚡ Fun fact: I love building things from scratch and scaling them for real-world use.
--->
