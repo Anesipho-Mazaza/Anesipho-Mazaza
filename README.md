@@ -85,7 +85,7 @@
 ## 📫 Let's Connect
 - LinkedIn: [Anesipho Mazaza](https://www.linkedin.com/in/anesipho-mazaza-19a020265/)
 - Email: [aneshmazaza@gmail.com](mailto:aneshmazaza@gmail.com)
-- Portfolio: [Coming Soon](#)
+- Portfolio:(https://anesipho-mazaza.github.io/personal-portfolio/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anesipho-Mazaza&label=Profile%20views&color=0e75b6&style=flat" alt="Anesipho-Mazaza" /> 
